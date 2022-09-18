@@ -18,10 +18,9 @@ We are waiting for you all to chat and exchange ideas in our Company, where ther
 
 # Links and Platforms 🌐
 - Visit Website: https://cyble.network
-- Browse Audited Projects: https://project.cyble.network
-- Buy Unmissable Opportunities: https://service.cyble.network
+- Browse Audited Projects: https://cyble.army
+- Buy Unmissable Opportunities: https://cyble.store
 - Join Cyble Network Community: https://t.me/CybleNetworkGlobal
-- Follow Official Twitter: https://twitter.com/CybleNetwork
 - View Portfolio: https://github.com/CybleNetwork
 - Book Service Via Email: hello@cyble.network
 - Book Service Via Telegram: https://t.me/CybleNetwork
